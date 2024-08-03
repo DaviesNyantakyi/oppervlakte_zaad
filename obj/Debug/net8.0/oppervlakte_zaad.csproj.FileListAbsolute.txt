@@ -1,0 +1,14 @@
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\bin\Debug\net8.0\oppervlakte_zaad.exe
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\bin\Debug\net8.0\oppervlakte_zaad.deps.json
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\bin\Debug\net8.0\oppervlakte_zaad.runtimeconfig.json
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\bin\Debug\net8.0\oppervlakte_zaad.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\bin\Debug\net8.0\oppervlakte_zaad.pdb
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.AssemblyInfoInputs.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.AssemblyInfo.cs
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.csproj.CoreCompileInputs.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\refint\oppervlakte_zaad.dll
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.pdb
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\oppervlakte_zaad.genruntimeconfig.cache
+C:\Users\davie\Desktop\School\Programmeren_met_csharp\oppervlakte_zaad\obj\Debug\net8.0\ref\oppervlakte_zaad.dll
